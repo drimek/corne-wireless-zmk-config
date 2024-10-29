@@ -6,7 +6,7 @@
     combos { compatible = "zmk,combos";
     combo_esc {
                 timeout-ms = <50>; // Time window to press both keys
-                key-positions = <20 21>; // Replace with actual key positions
+                key-positions = <19 20>; // Replace with actual key positions
                 bindings = <&kp ESC>;
             };
         };
